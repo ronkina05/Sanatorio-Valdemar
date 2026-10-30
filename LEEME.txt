@@ -1,0 +1,22 @@
+SANATORIO VALDEMAR · VERSIÓN 5
+
+Esta versión incorpora una ampliación fotográfica real y distinta de la versión anterior. Se han añadido imágenes históricas de sanatorios, personal médico, salas hospitalarias y un retrato de archivo para representar visualmente al director ficticio.
+
+Para abrir: descomprime la carpeta y abre index.html.
+
+Las fotografías se cargan desde los archivos originales de Wellcome Collection y Wikimedia Commons, por lo que es necesaria conexión a Internet. En cada imagen se indica su procedencia y en creditos.html se reúnen las fichas y licencias.
+
+Nota narrativa: las personas y centros fotografiados son históricos y no guardan relación real con el Sanatorio Valdemar, que es una institución ficticia. El retrato de John Alexander Milroy se utiliza únicamente como referencia visual del director ficticio.
+
+
+CENTRALITA TELEFÓNICA
+La página telefono.html está preparada para reproducir una grabación propia. Para activarla, guarda el audio en formato MP3 con el nombre centralita.mp3 o centralita.m4a dentro de la carpeta audio. La página admite ambos formatos. Encontrarás instrucciones en audio/LEEME_AUDIO.txt.
+
+CÓMO MODIFICAR LA WEB
+Puedes editar los archivos .html con el Bloc de notas o, más cómodamente, con Visual Studio Code. Cada sección tiene su propio archivo: index.html (inicio), historia.html, direccion.html, instalaciones.html, investigacion.html, personal.html, archivo.html, ubicacion.html y contacto.html. Los colores, tamaños y aspecto general están en styles.css. Guarda una copia antes de hacer cambios.
+
+IMPORTANTE SOBRE LAS FOTOGRAFÍAS
+Se ha corregido el dominio de las miniaturas de Wikimedia Commons que podía provocar que una imagen no cargase. Las fotografías externas siguen necesitando conexión a Internet.
+
+PUBLICAR EN GITHUB PAGES
+Sube el contenido de esta carpeta (no solo el ZIP) a un repositorio de GitHub y activa Settings > Pages > Deploy from a branch > main > /(root). La dirección pública aparecerá en esa misma sección cuando termine la publicación.

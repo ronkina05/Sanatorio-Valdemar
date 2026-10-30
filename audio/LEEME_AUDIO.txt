@@ -1,0 +1,8 @@
+AUDIO DE LA CENTRALITA
+
+Puedes usar cualquiera de estos formatos: MP3 o M4A.
+
+Opción 1: guarda el archivo como centralita.mp3 dentro de esta carpeta.
+Opción 2: si la Grabadora de sonido de Windows te lo guarda como M4A, renómbralo a centralita.m4a y déjalo dentro de esta carpeta.
+
+La ruta final será audio/centralita.mp3 o audio/centralita.m4a. La página telefono.html ya está preparada para ambos formatos.
